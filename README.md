@@ -10,3 +10,4 @@ Application that allows users to submit their pitches and other users will vote 
 # One-minute-pitch
 # One-minute-pitch
 # One-minute-pitch
+# One-minute-pitch
