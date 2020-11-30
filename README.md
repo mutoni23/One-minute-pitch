@@ -3,6 +3,7 @@
 Application that allows users to submit their pitches and other users will vote on them and leave comments to give their feedback on them.
 
 # User Stories
+
 1. The app lets a user register
 2. it lets the user login
 3. A user is able to create a new pitch and publish it
