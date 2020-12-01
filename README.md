@@ -28,7 +28,7 @@ E-mail: mutoniv5@gmail.com
 
 # License
 
-Copyright (c) 2020  Mutoni Vivine
+Copyright (c) 2020  Mutoni Vi
 
 
 
